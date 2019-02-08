@@ -35,7 +35,7 @@ package com.discount;
 		{
 			
 			
-			Test t=new Test("Risheendra","06-01-1997");
+			Test t=new Test("Saikumar","13-07-1996");
 			Customer c=new Customer();
 			
 			t.serviceExpense=2000;
